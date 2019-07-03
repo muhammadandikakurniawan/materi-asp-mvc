@@ -1,0 +1,8 @@
+#action method
+semua action result base classnya adalah actionResult
+-viewResult = untuk menampilkan html
+-emptyResult = tidak respon apa apa beda ama void, kalo void kg ada apa apa,
+
+
+
+
